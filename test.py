@@ -1,2 +1,2 @@
 print('tets')
-print('new text')
+print('new text2')
