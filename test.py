@@ -1,3 +1,1 @@
-print('tets')
-print('new text2')
-# // изменил
+print(6 % 2 == 0)
