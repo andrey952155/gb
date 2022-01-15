@@ -1,4 +1,6 @@
 class Matrix:
+    """Cell"""
+
 
     def __init__(self, new_matrix):
         self.matrix = new_matrix

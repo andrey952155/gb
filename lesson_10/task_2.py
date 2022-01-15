@@ -1,6 +1,8 @@
 import abc
 from abc import ABC
 
+"""Cell"""
+
 
 class Clothes(ABC):
 

@@ -1,4 +1,5 @@
 class Cell:
+    """Cell"""
 
     def __init__(self, particle):
         self.particle = particle
