@@ -1,14 +1,11 @@
-import abc
-from abc import ABC
-
-"""Cell"""
+from abc import ABC, abstractmethod
 
 
 class Clothes(ABC):
 
     all_cloth = 0
 
-    @abc.abstractmethod
+    @abstractmethod
     def calc(self):
         pass
 
